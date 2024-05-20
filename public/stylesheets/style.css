@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 30px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.signup_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+form {
+  border: 1px solid;
+  padding: 20px;
+  border-radius: 20px;
+  width: 400px;
+  height: 500px;
+}
+
+form h1 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+form .box input {
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  background: #efefef;
+}
+
+form .box input:focus {
+  border: none;
+}
+
+form .box {
+  padding-bottom: 20px;
+}
+
+.box p input{
+  padding-left: 10px;
+  font-size: 16px;
+}
+
+.box p{
+  font-size: 18px;
+  font-weight: 700;
+}

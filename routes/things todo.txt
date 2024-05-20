@@ -1,0 +1,5 @@
+> signup and login page
+> auth implimentation
+> make over profile page
+
+mongodb+srv://user:pass@cluster0.9is9zo7.mongodb.net/KeepNotes?retryWrites=true&w=majority&appName=Cluster0
